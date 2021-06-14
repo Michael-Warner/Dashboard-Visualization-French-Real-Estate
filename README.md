@@ -19,6 +19,3 @@ The results that stand out, pre Covid, were there was a downward trend of sales 
 ![Monthly](https://github.com/Michael-Warner/French-Real-Estate/blob/main/Monthly%20Sales%20Forecast.png)
 
 ![Overall](https://github.com/Michael-Warner/French-Real-Estate/blob/main/Overall%20Price%20Forecast.png)
-
-## Conclusion:
-Paris showed the largest growth in sales and price. While Toulouse and Marseille have the second and third highest sales the prices in those cities were staying stable.
